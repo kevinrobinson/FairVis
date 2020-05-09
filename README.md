@@ -1,4 +1,7 @@
-This is a fork! :)  The original work is both: A. awesome and B. double awesome for being shared in the open.  Thanks to @cabreraalex and pals over at https://github.com/poloclub/FairVis :thumbsup
+This is a fork! :)  The original work is both: A. awesome and B. double awesome for being shared in the open.  Thanks to @cabreraalex and pals over at https://github.com/poloclub/FairVis :thumbsup:
+
+demo at https://fairvis-noise-experiment.netlify.app
+
 
 # rambling notes below, beware
 
