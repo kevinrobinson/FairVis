@@ -14,6 +14,7 @@ You can also ask how well this toy, with randomness in 10% of binary decisions t
 
 Maybe this influences how any patterns you see here are situated within broader questions of sociotechnical fairness.
 
+EDIT: ah yeah seems like some folks recently wrote about this in [Fairness Evaluation in Presence of Biased Noisy Labels](https://arxiv.org/pdf/2003.13808.pdf), more about noisy labels than noisy human decisoin makers.
 
 ## if you like research
 Well, you see... human-centered AI ([Vaughan and Wallach 2020](http://www.jennwv.com/papers/intel-chapter.pdf)).
