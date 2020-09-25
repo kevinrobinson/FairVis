@@ -90,6 +90,8 @@ class StripPlot extends Component {
   };
 
   update = () => {
+    if (!this.node) return;
+    
     this.props.selectedMetrics.forEach(m => {
       let svg = d3.select(this.node).select("#stripplot-" + m.value);
 

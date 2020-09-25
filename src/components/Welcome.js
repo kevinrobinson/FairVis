@@ -107,6 +107,10 @@ const styles = {
 };
 
 class Welcome extends Component {
+  componentDidMount() {
+    this.props.loadData(compasData)
+  }
+  
   render() {
     let classes = this.props.classes;
 
